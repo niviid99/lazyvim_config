@@ -1,12 +1,12 @@
 return {
   {
-    "shaunsingh/nord.nvim",
+    "jacoborus/tender.vim",
+    lazy = true,
   },
-
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "nord",
+      colorscheme = "tender",
     },
   },
 }
