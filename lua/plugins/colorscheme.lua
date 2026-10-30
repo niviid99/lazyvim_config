@@ -1,12 +1,12 @@
 return {
   {
-    "jacoborus/tender.vim",
+    "Shatur/neovim-ayu",
     lazy = true,
   },
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "tender",
+      colorscheme = "ayu-mirage",
     },
   },
 }
